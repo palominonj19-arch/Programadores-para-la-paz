@@ -1,0 +1,8 @@
+pregunta1:¿cual de las siguientes opciones describe mejor que es la ciudadanía digital?.
+respuesta:el uso responsable de la tecnología para informarse, participar y compartir información de manera etica
+
+pregunta2: ¿cual es la razon principal por la que es importante verificar la información antes de conpartirla?
+respuesta:para evitar difundir información falsa o engañosa.
+
+pregunta3: ¿cual de las siguientes opciones define mejor al algoritmo?
+respuesta: una lista de pasos ordenados para resolver el problema 
